@@ -1,6 +1,10 @@
 # BMW-Global-Sales-Performance-Dashboard
 Power BI dashboard analyzing BMW sales performance, revenue trends, and key business metrics to generate actionable insights.
 
+## Tools & Technologies
+
+- Microsoft Power BI
+
 ## Dashboard Preview
 
 ![BMW Sales Dashboard](BMW%20Sales%20performance%20Dashboard.png)
